@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello everyone am Dike and am currently working on a e-commerce project
 
 <!--
 **Dike472/Dike472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
